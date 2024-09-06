@@ -1,6 +1,24 @@
 .App {
-  text-align: center;
+  padding:3rem;
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  border:2px solid red;
 }
+
+.main-card{
+  background-color: blue;
+  display: flex;
+  width:80vw;  
+  height:80vh;
+}
+.card-left{
+  background-color: green;
+  width:50%;
+  height: 100%;
+}
+
+
 
 .App-logo {
   height: 40vmin;
