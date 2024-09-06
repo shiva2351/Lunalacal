@@ -1,13 +1,12 @@
 import './App.css';
+import LeftCard from './components/LeftCard';
 import RightCard from './components/RightCard';
 
 function App() {
   return (
     <div className="App">
      <div className='main-card'>
-      <div className='card-left'>
-        left card
-      </div>
+      <LeftCard />
       <RightCard/>
      </div>
     </div>
