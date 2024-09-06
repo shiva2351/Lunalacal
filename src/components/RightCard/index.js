@@ -4,11 +4,11 @@ const RightCard=()=>{
     console.log("right")
     return <div  className='card-right'>
        <div class="right-card-1">
-        <div > <span>?</span>
+        <div  class="right-card-1-top"> <span class="q-icon">?</span>
         <ul class="ul-right">
-            <li class="right-ul">About me</li>
-            <li  class="right-ul">expriences</li>
-            <li  class="right-ul">Recommeded</li>
+            <li class="right-ul-li">About me</li>
+            <li  class="right-ul-li">expriences</li>
+            <li  class="right-ul-li">Recommeded</li>
         </ul></div>
         <p>
             kjsdlkjlHello Shiva kumar,
@@ -21,8 +21,8 @@ All the best!
        <div class="right-card-2">
         <div > <span>?</span>
         <ul class="ul-right">
-            <li class="right-ul">gallery</li>
-            <li  class="right-ul">expriences</li>
+            <li class="right-ul2-li">gallery</li>
+            <li  class="right-ul2-li">expriences</li>
         </ul></div>
        
        </div>

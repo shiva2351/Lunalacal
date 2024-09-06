@@ -24,4 +24,4 @@
 
 >>>app.js
 
->>>index.js
+>>>index.js (main file)
